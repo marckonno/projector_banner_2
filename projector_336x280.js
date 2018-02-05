@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"projector_336x280_atlas_", frames: [[338,302,336,280],[0,302,336,280],[0,0,480,300],[482,0,480,300]]}
+		{name:"projector_336x280_atlas_", frames: [[0,302,336,280],[338,302,336,280],[0,0,480,300],[482,0,480,300]]}
 ];
 
 
